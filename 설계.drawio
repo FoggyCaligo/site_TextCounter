@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-12-14T09:56:37.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="EDly-prWsvXSO728tOEv" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2023-12-14T09:59:14.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="4_G6YQ58eKa6F2U-hS6d" version="22.1.2" type="device">
   <diagram name="페이지-1" id="bZ4ZVyiGfbK_r6lM-Sdv">
-    <mxGraphModel dx="1611" dy="586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1983" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="XOWJVbm9mqqXQF6cZUJM-18" value="&lt;font color=&quot;#292929&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;글자수&amp;nbsp; &amp;nbsp;&amp;amp;&amp;nbsp; &amp;nbsp;발표시간&amp;nbsp; &amp;nbsp;계산기&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="54" y="260" width="238" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XOWJVbm9mqqXQF6cZUJM-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#0d0d0d&quot;&gt;안녕하십니까 무엇에 대한 발표를 맡게된 어느 팀의 누구 입니다. 저희가 발표할 것은 이것으로, 저거를 기반으로 만들어져 이정도의 효과를 낼 수 있습니다.&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=#C9C9C9;align=left;" parent="1" vertex="1">
+        <mxCell id="XOWJVbm9mqqXQF6cZUJM-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#0d0d0d&quot;&gt;안녕하십니까 무엇에 대한 발표를 맡게된 어느 팀의 누구 입니다. 저희가 발표할 것은 이것으로, 무&lt;br&gt;언가를 기반으로 만들어져 이정도의 효과를 낼 수 있습니다.&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=#C9C9C9;align=left;" parent="1" vertex="1">
           <mxGeometry x="366.5" y="481" width="227" height="67" as="geometry" />
         </mxCell>
         <mxCell id="XOWJVbm9mqqXQF6cZUJM-26" value="0" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#D4D4D4;align=left;" parent="1" vertex="1">
@@ -104,6 +104,69 @@
         </mxCell>
         <mxCell id="zSSDWk2nGVweS7rVmlu--18" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;[ 시작 누르고 읽은 후 정지를 누르세요 ]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;strokeColor=#C9C9C9;align=left;" vertex="1" parent="1">
           <mxGeometry x="366.5" y="428.5" width="227" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF8E6;" vertex="1" parent="1">
+          <mxGeometry x="-511" y="250" width="260" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;shadow=0;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-501" y="316" width="240" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--21" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#080808&quot;&gt;Speed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#EDEDED;" vertex="1" parent="1">
+          <mxGeometry x="-501" y="299" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--22" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#292929&quot;&gt;Count&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="299" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--23" value="&lt;font color=&quot;#292929&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;글자수&amp;nbsp; &amp;nbsp;&amp;amp;&amp;nbsp; &amp;nbsp;발표시간&amp;nbsp; &amp;nbsp;계산기&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="260" width="238" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--24" value="0" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#D4D4D4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-406" y="559" width="137" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--25" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;글자 수&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#EDEDED;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-494.5" y="559" width="87" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--26" value="0" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#D4D4D4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-406" y="580" width="137" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--27" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;공백제외&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#EDEDED;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-494.5" y="580" width="87" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--28" value="0" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#D4D4D4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-406" y="602" width="137" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--29" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;공백 수&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#EDEDED;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-494.5" y="602" width="87" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--30" value="0" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#D4D4D4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-406" y="624" width="137" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--31" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;단어 수&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#EDEDED;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-494.5" y="624" width="87" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--32" value="0" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#D4D4D4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-406" y="645" width="137" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--33" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;문장 수&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#EDEDED;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-494.5" y="645" width="87" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--34" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#a1a1a1&quot;&gt;텍스트 입력&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=#C9C9C9;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-494.5" y="349" width="227" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF8E6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="260" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;shadow=0;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="651" y="314" width="240" height="369" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--41" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#080808&quot;&gt;Speed&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="299" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--42" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#292929&quot;&gt;Count&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDEDED;strokeColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="299" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zSSDWk2nGVweS7rVmlu--43" value="&lt;font color=&quot;#292929&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;글자수&amp;nbsp; &amp;nbsp;&amp;amp;&amp;nbsp; &amp;nbsp;발표시간&amp;nbsp; &amp;nbsp;계산기&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="651" y="260" width="238" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
